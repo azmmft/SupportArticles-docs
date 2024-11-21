@@ -1,7 +1,7 @@
 ---
 title: Known issues - custom kubelet configuration on AKS Windows nodes
 description: Learn about known issues that affect custom kubelet configuration on Windows nodes in an Azure Kubernetes Service (AKS) cluster.
-ms.date: 04/28/2023
+ms.date: 11/21/2024
 editor: v-jsitser
 ms.reviewer: allyford, abelch, jpalma, v-leedennis
 ms.service: azure-kubernetes-service
